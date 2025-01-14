@@ -1,0 +1,12 @@
+{
+    "ID": "2ed57a821754650d33426395dbfe2d47",
+    "ActionKeyword": "tab",
+    "Name": "Edge Tabs",
+    "Description": "Switch to Edge tabs",
+    "Author": "xWTF",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/xWTF/Flow.Launcher.Plugin.EdgeTabs",
+    "ExecuteFileName": "Flow.Launcher.Plugin.EdgeTabs.dll",
+    "IcoPath": "icon.png"
+}
